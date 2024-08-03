@@ -1,0 +1,10 @@
+body {
+    background-image: linear-gradient(to bottom, #45b3fa, #87ceeb, #add8e6);
+}
+.InfoBox {
+    text-align: center;
+}
+.cardContainer {
+    display: flex;
+    justify-content: center;
+}
